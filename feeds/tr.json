@@ -28,6 +28,11 @@
             "transitland-atlas-id": "f-izmir~tram"
         },
         {
+            "name": "izmir-izdeniz",
+            "type": "http",
+            "url": "https://dl.dropboxusercontent.com/scl/fi/7pudksajzqudrus9wndbo/izmir-izdeniz.zip?rlkey=0wqhvra2x71538m4x3bw210k7"
+        },
+        {
             "name": "istanbul-ibb",
             "type": "http",
             "url": "https://dl.dropboxusercontent.com/scl/fi/v937qi0xnytzl21a3bbd0/istanbul-ibb.zip?rlkey=dgi6l0cxb2203fresf1s16r7i",
